@@ -1,6 +1,3 @@
-# Seminar-git3
-New repo
-
-## Hello!
+Всем добрый вечер!
 
 
